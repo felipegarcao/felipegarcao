@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello 👋
 My name is Luis Felipe I am a student at fatec, I am currently 17 years old and I am studying Analysis and systems development, I started in February 2021 I am totally new to this area of ​​programmer.
 
