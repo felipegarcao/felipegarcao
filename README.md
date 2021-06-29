@@ -16,6 +16,8 @@ Reach me out 👇
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lufegs&show_icons=true&theme=radical)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lufegs&layout=compact&langs_count=16&theme=radical"/>
+
 
 ## My Skills
 
