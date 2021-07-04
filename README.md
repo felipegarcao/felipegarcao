@@ -17,7 +17,7 @@ Reach me out 👇
 [
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-felipe-garção-silva-b0794b203/)](https://www.linkedin.com/in/luis-felipe-garção-silva-b0794b203/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/felipegarcao_/)](https://www.instagram.com/felipegarcao_/) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lufegs&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LFelpsDev&show_icons=true&theme=radical)
 
 
 ## My Skills
