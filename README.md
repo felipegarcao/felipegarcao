@@ -44,7 +44,9 @@ Reach me out 👇
 </a>  
 <a href="#">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30" width="40">
-</a>  <br>
+<img src="https://img.icons8.com/color/48/000000/sass.png" height="30" width="40">
+</a> 
+
 
 
 
