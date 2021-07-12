@@ -44,6 +44,8 @@ Reach me out 👇
 <img src="https://img.icons8.com/color/48/000000/sass.png" height="30" width="40">
 </a> 
 
+![Snake animation](https://github.com/LFelpsDev/LFelpsDev/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
