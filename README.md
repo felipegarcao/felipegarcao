@@ -35,9 +35,6 @@
 </p>
 
 
-<p align="center">My name is <strong>Luis Felipe</strong> I am a student at fatec, I am currently 18 years old and I am studying Analysis and systems development, I started in February 2021 I am totally new to this area of ​​programmer.</p>
-
-
 <h3 align="center">🌎 "Quanto mais eu sei, mais eu sou" 🧠</h3>
 
 <p align="center">
