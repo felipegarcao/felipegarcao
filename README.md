@@ -1,53 +1,27 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá,+Sou+o+Luis.;Prazer+ter+você+aqui!)](https://git.io/typing-svg)👋
+
+- 💡 Sou Desenvolvedor Front-End pela Unimed Presidente Prudente 💚
+
+### Tecnologias que sei:
 
 <div align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+  <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="HTML" height="50" width="60" title="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS" height="50" width="60" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://www.w3schools.com/js/" target="_blank"><img align="center" alt="JS" height="50" width="60" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://www.w3schools.com/react/" target="_blank"><img align="center" alt="React" height="50" width="60" title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></a>
+    <a href="https://www.w3schools.com/react/" target="_blank"><img align="center" alt="ANGULAR" height="50" width="60" title="ANGULAR" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></a>
+        <a href="https://www.w3schools.com/react/" target="_blank"><img align="center" alt="SASS" height="50" width="60" title="SASS" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></a>
+            <a href="https://www.w3schools.com/react/" target="_blank"><img align="center" alt="NEXT" height="50" width="60" title="NEXT" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"></a>
+  <br><br>
+  <h20>(Saiba mais clicando nos ícones)</h20>
 </div>
 
+##
+### My GitHub Stats:
+<div align="center">
+<a href="https://github.com/LFelpsDev"><img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=LFelpsDev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Stats"/></a>
 
+<a href="https://github.com/LfelpsDev"><img width ="70%" src="https://activity-graph.herokuapp.com/graph?username=LFelpsDev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"/></a>
 
-
-
-<h3 align="center">🌎 "Quanto mais eu sei, mais eu sou" 🧠</h3>
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LFelpsDev&show_icons=true&theme=radical">
-</p>
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
+<a href="https://github.com/LFelpsDev"><img width ="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFelpsDev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
