@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá,+Sou+o+Luis.;Prazer+ter+você+aqui!)](https://git.io/typing-svg)👋
 
-- 💡 Sou Desenvolvedor Front-End pela Unimed Presidente Prudente 💚
+- 💡 Desenvolvedor Front-End pela Unimed Presidente Prudente 💚
 
 ### Tecnologias que sei:
 
