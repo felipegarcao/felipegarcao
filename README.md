@@ -1,4 +1,4 @@
-- 💡 Desenvolvedor Front-End pela Unimed Presidente Prudente 💚
+- Desenvolvedor Front-end Pela Cooporativa Unimed Prudente.
 
 ### Tecnologias que sei:
 
