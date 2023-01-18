@@ -1,15 +1,17 @@
-- Desenvolvedor Front-end Pela Cooporativa Unimed Prudente.
 
-### Tecnologias que sei:
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<div align="center">
-  <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="HTML" height="50" width="60" title="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS" height="50" width="60" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://www.w3schools.com/js/" target="_blank"><img align="center" alt="JS" height="50" width="60" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://www.w3schools.com/react/" target="_blank"><img align="center" alt="React" height="50" width="60" title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></a>
-    <a href="https://www.w3schools.com/react/" target="_blank"><img align="center" alt="ANGULAR" height="50" width="60" title="ANGULAR" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></a>
-        <a href="https://www.w3schools.com/react/" target="_blank"><img align="center" alt="SASS" height="50" width="60" title="SASS" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></a>
-            <a href="https://www.w3schools.com/react/" target="_blank"><img align="center" alt="NEXT" height="50" width="60" title="NEXT" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"></a>
-  <br><br>
-  <h20>(Saiba mais clicando nos ícones)</h20>
-</div>
+
+[<img align="left" height="94px" width="94px" alt="Unimed" src="https://i0.wp.com/site.unimedlitoral.com.br/wp-content/uploads/2020/08/cropped-logo_unimed_avatar_Twitter-1.png?fit=512%2C512&ssl=1"/>](https://unimed.coop.br/site/web/presidenteprudente)
+
+
+**Front-end Developer (Jr)** \
+[**Unimed**](https://unimedprudente.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Angular`, `React`\
+Projetos em destaque: [Banco de Exames](), [Pronto Socorro Digital](), [Aréa Restrita do Cooperado]() 
+<br/>
+
+
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
