@@ -14,4 +14,4 @@ Projetos em destaque: [Banco de Exames](), [Pronto Socorro Digital](), [Aréa Re
 
 
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/luis-felipe-gar%C3%A7%C3%A3o-silva-b0794b203/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
