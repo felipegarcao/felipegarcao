@@ -9,7 +9,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Front-end Developer (Jr)** \
 [**Unimed**](https://unimedprudente.com.br/) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `Angular`, `React`\
-Projetos em destaque: [Banco de Exames](), [Pronto Socorro Digital](), [Aréa Restrita do Cooperado]() 
+Projetos em destaque: [Banco de Exames](), [Pronto Socorro Digital](), [Aréa Restrita do Cooperado](), [StoryBook](), [P4P]() 
 <br/>
 
 
