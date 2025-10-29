@@ -6,9 +6,9 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Unimed" src="https://i0.wp.com/site.unimedlitoral.com.br/wp-content/uploads/2020/08/cropped-logo_unimed_avatar_Twitter-1.png?fit=512%2C512&ssl=1"/>](https://unimed.coop.br/site/web/presidenteprudente)
 
 
-**Front-end Developer (Jr)** \
+**Web Developer ** \
 [**Unimed**](https://unimedprudente.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Angular`, `React`\
+Linguagens & Tecnologias: `JavaScript`, `Angular`, `React`, `C#`\
 Projetos em destaque: [Banco de Exames](), [Pronto Socorro Digital](), [Aréa Restrita do Cooperado](), [StoryBook](), [Rede Credenciada]() 
 <br/>
 
