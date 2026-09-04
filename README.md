@@ -3,10 +3,7 @@
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 
-[<img align="left" height="94px" width="94px" alt="Unimed" src="https://i0.wp.com/site.unimedlitoral.com.br/wp-content/uploads/2020/08/cropped-logo_unimed_avatar_Twitter-1.png?fit=512%2C512&ssl=1"/>](https://unimed.coop.br/site/web/presidenteprudente)
-
-
-**Software Enginner** \
+**Software Enginner & Tech Lead** \
 [**Unimed**](https://unimedprudente.com.br/) • Contract \
-Linguagens & Tecnologias: `Typescript`, `Angular`, `React`, `C#`, `React Native`\
+Linguagens & Tecnologias: `Automações`, `CI/CD`, `React & NextJs`, `.NET`, `React Native`\
 
