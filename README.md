@@ -3,7 +3,7 @@
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 
-**Software Enginner & Tech Lead** \
-[**Unimed**](https://unimedprudente.com.br/) • Contract \
+**Software Enginner & Tech Lead - Unimed Prudente** \
+[**Unimed**](https://unimedprudente.com.br/)
 Linguagens & Tecnologias: `Automações`, `CI/CD`, `React & NextJs`, `.NET`, `React Native`
 
