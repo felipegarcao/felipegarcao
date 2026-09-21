@@ -1,9 +1,15 @@
+### 💼 Experiência profissional
 
-### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Abaixo, algumas das minhas experiências profissionais mais recentes, com foco em desenvolvimento de software, liderança técnica e automação de processos.
 
+#### Software Engineer & Tech Lead — Unimed Prudente
 
-**Software Enginner & Tech Lead - Unimed Prudente** \
-[**Unimed**](https://unimedprudente.com.br/)
-Linguagens & Tecnologias: `Automações`, `CI/CD`, `React & NextJs`, `.NET`, `React Native`
+[**Unimed Prudente**](https://unimedprudente.com.br/)
 
+Atuação no desenvolvimento de soluções, liderança técnica e automação de processos, trabalhando com:
+
+* ⚙️ **Automações** e otimização de processos
+* 🚀 **CI/CD** e práticas de DevOps
+* ⚛️ **React & Next.js**
+* 🔷 **.NET**
+* 📱 **React Native**
